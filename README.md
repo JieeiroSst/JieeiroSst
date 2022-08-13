@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+### 🔭 I’m currently working on Banking
+### 🌱 I’m currently learning every Rust, Cacbon, GO, Typescript
+### 😄I am passionate about coding and love learning new languages and new technologies
+
 <!--
 **JieeiroSst/JieeiroSst** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
