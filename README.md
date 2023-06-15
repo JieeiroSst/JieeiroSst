@@ -20,8 +20,8 @@
 - 📫 How to reach me **luumanhquan.91@gmail.com**
 ## Contact Me 📫
 
-[![Linkedin Badge](https://img.shields.io/twitter/url?color=lightblue&label=mmertpolat&logo=linkedin&logoColor=lightblue&style=for-the-badge&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fmạnh-quan-90ba43119/)](https://www.linkedin.com/in/mạnh-quan-90ba43119/)
-
+[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mạnh-quan-90ba43119/)
+&nbsp;
 
 
 ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JieeiroSst&show_icons=true)
