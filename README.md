@@ -23,8 +23,9 @@
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/mạnh-quan-90ba43119/)
 &nbsp;
 
-
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JieeiroSst&show_icons=true)
+<p align="center">
+    ![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JieeiroSst&show_icons=true)
+</p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
