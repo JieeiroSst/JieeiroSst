@@ -18,6 +18,13 @@
 - 💬 Ask me about **I’m currently learning every Rust, Cacbon, GO, Typescript**
 
 - 📫 How to reach me **luumanhquan.91@gmail.com**
+## Contact Me 📫
+
+[![Linkedin Badge](https://www.linkedin.com/in/mạnh-quan-90ba43119/)
+
+
+
+![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JieeiroSst&show_icons=true)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
