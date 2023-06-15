@@ -29,9 +29,14 @@ Here are some ideas to get you started:
 
 <div id="badges">
   <a href="your-linkedin-URL">
-    <img src="https://www.linkedin.com/in/mạnh-quan-90ba43119/" alt="LinkedIn Badge"/>
+   
   </a>
   <a href="your-facebook-URL">
-    <img src="https://www.facebook.com/luumanh.quan" alt="Facebook Badge"/>
+    
   </a>
+</div>
+
+<div id="badges">
+  <img src="https://www.linkedin.com/in/mạnh-quan-90ba43119/" alt="LinkedIn Badge"/>
+  <img src="https://www.facebook.com/luumanh.quan" alt="Facebook Badge"/>
 </div>
