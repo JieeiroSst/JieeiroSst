@@ -5,7 +5,7 @@
 
 
 <h1 align="center">Hi 👋, I'm Alain Liu</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Backend Developer from VietNam</h3>
 
 - 🔭 I’m currently working on  Ecommerce [Sendo](https://www.sendo.vn)
 
