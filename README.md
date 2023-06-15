@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  <img src="https://www.linkedin.com/in/mạnh-quan-90ba43119/" alt="LinkedIn Badge"/>
-  <img src="https://www.facebook.com/luumanh.quan" alt="Facebook Badge"/>
 </div>
 
 
