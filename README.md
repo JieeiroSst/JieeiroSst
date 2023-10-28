@@ -7,8 +7,6 @@
 <h1 align="center">Hi 👋, I'm Alain Liu</h1>
 <h3 align="center">A passionate Backend Developer from VietNam</h3>
 
-- 🔭 I’m currently working on  Ecommerce [Sendo](https://www.sendo.vn)
-
 - 🌱 I’m currently learning **I am passionate about coding and love learning new languages and new technologies**
 
 - 👯 I’m looking to collaborate on [store-service](https://github.com/JieeiroSst/store-service)
