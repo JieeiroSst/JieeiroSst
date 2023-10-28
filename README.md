@@ -11,9 +11,7 @@
 
 - 👯 I’m looking to collaborate on [store-service](https://github.com/JieeiroSst/store-service)
 
-- 🤝 I’m looking for help with [Carbon](https://github.com/carbon-language/carbon-lang)
-
-- 🤝 I’m looking for help with [Linkedin](https://www.linkedin.com/in/quan-liu-a65451290/)
+- 📫 I’m looking for help with [Linkedin](https://www.linkedin.com/in/quan-liu-a65451290/)
 
 - 💬 Ask me about **I’m currently learning every Rust, Cacbon, GO, Typescript**
 
