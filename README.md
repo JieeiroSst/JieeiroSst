@@ -13,13 +13,11 @@
 
 - 📫 I’m looking for help with [Linkedin](https://www.linkedin.com/in/quan-liu-a65451290/)
 
-- 💬 Ask me about **I’m currently learning every Rust, Cacbon, GO, Typescript**
+- 💬 Ask me about **I’m currently learning every Rust, Carbon, GO, Typescript**
 
 - 📫 How to reach me **luumanhquan.91@gmail.com**
 ## Contact Me 📫
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quan-liu-a65451290/)
-&nbsp;
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JieeiroSst&theme=github)
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JieeiroSst&theme=github)
 
