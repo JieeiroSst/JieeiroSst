@@ -20,8 +20,15 @@
 
 [![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/quan-liu-a65451290/)
 &nbsp;
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JieeiroSst&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JieeiroSst&theme=github)
 
-![Mert's GitHub Stats](https://github-readme-stats.vercel.app/api?username=JieeiroSst&show_icons=true)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JieeiroSst&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=JieeiroSst&theme=github)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=JieeiroSst&theme=github)
+&nbsp;
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
